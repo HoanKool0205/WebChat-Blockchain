@@ -1,5 +1,5 @@
 # WebChat-Blockchain
-1  User
+1 . User
 •	Registration/Login
 o	Create a new account
 o	Login with blockchain wallet
